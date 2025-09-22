@@ -4,5 +4,4 @@ openpyxl
 python-docx
 PyPDF2
 pandas
-pyngrok
-streamlit_pydantic
+
